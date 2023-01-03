@@ -8,7 +8,7 @@
 - Business Problem Solving
 - 💞️ I’m looking to collaborate on  data tools and technologies
 - 📫 How to reach me lekshmipriyavs99@gmail.com
-- 
+
 
 <!---
 LekshmiPriyavs/LekshmiPriyavs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
